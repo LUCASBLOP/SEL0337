@@ -1,3 +1,6 @@
+Aluno: Lucas Batista Lopes - 12803370
+Aluno: Murillo Martinez Nunes - 12690598
+
 1) O primeiro projeto "nusp.py" é responsável por ler o ID da Tag e em seguida inserir o texto digitado na Tag. Em seguida, mostra no terminal o ID e o texto.
 2) O segundo projeto "acesso_id.py" é responsável por restringir o ID da Tag que passa pelo sensor: se a Tag lida tiver o mesmo ID cadastrado no código, então, aparece no terminal "acesso liberado" e acende no circuito o led verde, contudo, se a Tag lida tiver um ID diferente do cadastrado, logo, aparece no terminal "acesso negado" e acende o led vermelho.
 3) O terceiro código "uso_camera.py" é responsável por configurar a camera inserida na RASP PI e tirar fotos com o periférico para realizar reconhecimento facial atraves de um algoritmo de visão computacional.   
