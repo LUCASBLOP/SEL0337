@@ -1,4 +1,4 @@
-Aluno: Lucas Batista Lopes - 12803370
+Aluno: Lucas Batista Lopes - 12803370\
 Aluno: Murillo Martinez Nunes - 12690598
 
 1) O primeiro projeto "nusp.py" é responsável por ler o ID da Tag e em seguida inserir o texto digitado na Tag. Em seguida, mostra no terminal o ID e o texto.
