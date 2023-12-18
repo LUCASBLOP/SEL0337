@@ -1,0 +1,11 @@
+commit c2b53ff825e1e6733e2f6d96a4269a16037a64d5
+Author: pedroribo <pedrorb@usp.br>
+Date:   Mon Dec 18 18:25:37 2023 +0000
+
+     relatório 6
+
+commit 03b70f07f08f3c25c7a5e052847a259880125cf3
+Author: LUCASBLOP <113633685+LUCASBLOP@users.noreply.github.com>
+Date:   Mon Dec 18 14:44:17 2023 -0300
+
+    Create README.md
